@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import sys
 import functions as fn
 
-#generate x
+#generate variable
 x = np.linspace(-10, 10, 1000)
 
 #function for saving graphs
